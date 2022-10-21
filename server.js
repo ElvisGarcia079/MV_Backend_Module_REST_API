@@ -1,7 +1,7 @@
 const express = require("express");
-const { seed } = require("./data/index");
 const {Pokemon} = require("./models/Pokemon");
 const {Trainer} = require("./models/Trainer");
+const {seed} = require("./seed/index")
 
 const app = express();
 const port = 3010;
