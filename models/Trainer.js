@@ -1,7 +1,7 @@
 const Sequelize = require("sequelize");
-const {demoDB} = require("../demoDB");
+const { database } = require("../db");
 
-const Trainer = demoDB.define("trainer", {
+const Trainer = database.define("trainer", {
     id: {
         type: Sequelize.INTEGER,
         primaryKey: true,
