@@ -1,4 +1,4 @@
-const { path } = require("express/lib/application");
+const path = require("path");
 const {Sequelize} = require("sequelize");
 
 const database = new Sequelize({
