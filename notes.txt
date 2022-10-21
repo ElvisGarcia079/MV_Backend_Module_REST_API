@@ -1,0 +1,30 @@
+Dive a little deeper into RestFUL API's
+
+- What is an API?
+    - Restaurant Analogy: 
+        1. Patrons/Hungry PPl
+        2. Waiter
+        3. Chef
+
+- What does it mean to be RESTful?
+    - Representational State Transfer
+
+- When we are working with an RESTful API
+    - We would like to ask the server as a client to get the data that represents the information in the application that we need at the time
+
+- What are the best practices with RESTFUL API's?
+    - NOUN - Person, Place, Thing
+        - Elvis
+        - Manhattan
+        - Spoon
+    - VERB - Action
+        - Run
+        - Sleep
+        - Eat
+        - Kick
+        - Smoke
+Elvis Run
+Elvis Kick
+Elvis Eat
+Manhattan Eat
+Kick Spoon
